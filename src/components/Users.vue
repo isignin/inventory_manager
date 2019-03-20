@@ -60,9 +60,9 @@ export default {
 
       ],
       rows: [
-        { id: 1, siteId: '1', name: 'John Doe', username: 'kalonjimichel@example.com', password: '********' },
-        { id: 2, siteId: '2', name: 'Jane Doe', username: 'ernestbanda@example.com', password: '********' },
-        { id: 3, siteId: '3', name: 'Maynor Enrique', username: 'menrique@example.com', password: '********' }
+        { id: 1, siteId: '1', name: 'John Doe', username: 'jdoe@example.com', password: '********' },
+        { id: 2, siteId: '2', name: 'Jane Doe', username: 'jdoe@example.com', password: '********' },
+        { id: 3, siteId: '3', name: 'Maynor Stamm', username: 'maynor@example.com', password: '********' }
       ]
     }
   },
