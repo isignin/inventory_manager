@@ -1,4 +1,4 @@
-# inventory-manager
+# inventory-manager using Vue.js
 
 ## Project setup
 ```
